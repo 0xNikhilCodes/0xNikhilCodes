@@ -32,7 +32,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xNikhilCodes&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsunganahalli&theme=dark&hide_border=true" />
 
 ---
 
