@@ -16,7 +16,7 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/py5nOT7KKA?theme=dark&font=baloo&ext=contest)
 
 ---
 
