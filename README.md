@@ -7,6 +7,11 @@
 🎯 Focused on building beautiful UIs & solving DSA problems on LeetCode
 
 ---
+## Projects 
+1 Weather
+<a href="https://weather131.netlify.app/">Weather-app</a>
+2 Todolist
+<a href="https://todolist128.netlify.app/">To-do-list</a>
 
 ## 🛠️ Tech Stack
 
