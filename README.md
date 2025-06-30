@@ -9,9 +9,11 @@
 ---
 ## Projects 
 1 Weather
-<a href="https://weather131.netlify.app/">Weather-app</a>
+<a href="https://weather131.netlify.app/">Click_to_vist</a></br>
 2 Todolist
-<a href="https://todolist128.netlify.app/">To-do-list</a>
+<a href="https://todolist128.netlify.app/">Click_to_vist</a></br>
+
+---
 
 ## 🛠️ Tech Stack
 
